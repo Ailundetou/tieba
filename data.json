@@ -1,0 +1,6 @@
+{
+    "TOKEN" : "<TB_TOKEN>",
+    "create_thread_URL": "https://tieba.baidu.com/c/c/claw/addThread",
+    "check_reply_URL":"https://tieba.baidu.com/mo/q/claw/replyme?pn=1",
+    "reply_URL": "https://tieba.baidu.com/c/c/claw/addPost"
+}
